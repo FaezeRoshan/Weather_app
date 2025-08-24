@@ -1,16 +1,17 @@
-# weather
+# 🌦️ Weather App
 
-A new Flutter project.
+A simple and elegant **Flutter** application to display weather information.  
+This project demonstrates **Clean Architecture**, **state management with BLoC**, API integration, and automated testing.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🔍 Search for cities and get real-time weather  
+- 🌡️ Display current conditions & multi-day forecast  
+- ⭐ Save favorite cities locally with **SQLite (sqflite)**  
+- 🧩 Modular, feature-based folder structure  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎥 Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Weather Demo](images/weather.gif)
