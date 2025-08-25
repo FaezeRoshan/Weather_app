@@ -3,7 +3,6 @@
 A simple and elegant **Flutter** application to display weather information.  
 This project demonstrates **Clean Architecture**, **state management with BLoC**, API integration, and automated testing.
 
----
 
 ## ✨ Features
 - 🔍 Search for cities and get real-time weather  
@@ -15,3 +14,4 @@ This project demonstrates **Clean Architecture**, **state management with BLoC**
 ## 🎥 Demo
 
 ![Weather Demo](images/weather.gif)
+
